@@ -96,7 +96,7 @@ void binarySearch()
     } while (low <= high); // step 8
     if (low > high)
     {
-        cout << x << " Tidak ditemukan " << endl; // step 9
+        cout << x << " Tidak ditemukan " << endl; // step  9
     }
 }
 
